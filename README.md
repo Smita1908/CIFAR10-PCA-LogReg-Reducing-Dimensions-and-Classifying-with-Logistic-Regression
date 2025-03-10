@@ -40,7 +40,7 @@ Principal Component Analysis(PCA) for dimensionality reduction and visualization
       - Set corresponding labels: assign label "first principle component" for x and y axis
       - Add legends for each class.
 
-## How to run the project:
+## 🚀How to run the project:
 * There is a single jupyter file.
 * Open the file using google colab or VScode.
 * The file contains both the implementation of PCA(dimensionality reduction & visualization)  and the Logistic Regression classifer.
