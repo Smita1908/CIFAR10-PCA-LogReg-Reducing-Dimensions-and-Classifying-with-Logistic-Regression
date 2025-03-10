@@ -1,6 +1,6 @@
-# Title:
-Principal Component Analysis(PCA) for dimensionality reduction and visualization
-# Description: 
+# Principal Component Analysis for dimensionality reduction and visualization
+
+# 🗣️Description: 
 - This project deals with neural image classification using `PyTorch`.
   -  Unveiling patterns with PCA, visualizing Principal Components and navigating Image Classification with Logistic Regression
   -  Principal component analysis (PCA) is a technique used to emphasize variation and bring out strong patterns in a dataset.
